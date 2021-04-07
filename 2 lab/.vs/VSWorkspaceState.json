@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\client",
+    "\\client\\src",
+    "\\client\\src\\components",
+    "\\client\\src\\components\\view",
+    "\\client\\src\\fonts",
+    "\\server",
+    "\\server\\config",
+    "\\server\\middleware",
+    "\\server\\models"
+  ],
+  "SelectedNode": "\\server\\config\\default.json",
+  "PreviewInSolutionExplorer": false
+}
